@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reactjs_web_application/static/css/main.bbd07796.css",
+    "main.js": "/reactjs_web_application/static/js/main.6cee2d06.js",
+    "static/media/Rectangle12.png": "/reactjs_web_application/static/media/Rectangle12.268fe3187fe9768a73e3.png",
+    "static/media/Rectangle16.png": "/reactjs_web_application/static/media/Rectangle16.b2721432b053b6b37bbd.png",
+    "static/media/Rectangle13.png": "/reactjs_web_application/static/media/Rectangle13.63463acca6d8532a78ca.png",
+    "static/media/Rectangle15.png": "/reactjs_web_application/static/media/Rectangle15.d319b3b9f3227ff292b1.png",
+    "static/media/slideshow12.jpg": "/reactjs_web_application/static/media/slideshow12.e804813379c679e43b06.jpg",
+    "static/media/slideshow9.jpeg": "/reactjs_web_application/static/media/slideshow9.57de8336d52ef5ad0584.jpeg",
+    "static/media/slideshow1.jpeg": "/reactjs_web_application/static/media/slideshow1.93432b3bcc74f94348f9.jpeg",
+    "static/media/slideshow4.jpeg": "/reactjs_web_application/static/media/slideshow4.4891034624e6db8b6f4f.jpeg",
+    "static/media/slideshow8.jpeg": "/reactjs_web_application/static/media/slideshow8.ff40755d8d3d57ccc8fc.jpeg",
+    "static/media/slideshow5.jpg": "/reactjs_web_application/static/media/slideshow5.4450eb4d436320d5e20a.jpg",
+    "static/media/slideshow11.jpeg": "/reactjs_web_application/static/media/slideshow11.0f17c231c3c14a96a1e2.jpeg",
+    "static/media/slideshow3.jpeg": "/reactjs_web_application/static/media/slideshow3.2b0ae1d25e5058124d35.jpeg",
+    "static/media/slideshow6.jpeg": "/reactjs_web_application/static/media/slideshow6.97b473ad345faf2174ee.jpeg",
+    "static/media/slideshow7.jpeg": "/reactjs_web_application/static/media/slideshow7.f08a345d91c5572299e1.jpeg",
+    "static/media/actionAndAdventure.png": "/reactjs_web_application/static/media/actionAndAdventure.8f87379472644864a870.png",
+    "static/media/slideshow2.jpeg": "/reactjs_web_application/static/media/slideshow2.f6c61b94ae9390f25cb5.jpeg",
+    "static/media/raamRaavan.png": "/reactjs_web_application/static/media/raamRaavan.96c6c8ea4f374df79d3c.png",
+    "static/media/LionsgatePlay-426X2946_V1.jpg": "/reactjs_web_application/static/media/LionsgatePlay-426X2946_V1.9ab12dccc3c420ec8ddc.jpg",
+    "static/media/426x294_Discovery.jpg": "/reactjs_web_application/static/media/426x294_Discovery.fc2f0cc0b8ad005cf0c9.jpg",
+    "static/media/ShortsTV-426X2944_V1.jpg": "/reactjs_web_application/static/media/ShortsTV-426X2944_V1.1d59f0b9f7ed076b3c80.jpg",
+    "static/media/426x294_MANORAMAMAX.jpg": "/reactjs_web_application/static/media/426x294_MANORAMAMAX.83bda603659a930e4918.jpg",
+    "static/media/Mubi-426X2946_V1.jpg": "/reactjs_web_application/static/media/Mubi-426X2946_V1.4ecdc9d7166afc461374.jpg",
+    "static/media/Docubay-426X2947_V1.jpg": "/reactjs_web_application/static/media/Docubay-426X2947_V1.c896771a0a346e492664.jpg",
+    "static/media/Erosnow-426X2948_V1.jpg": "/reactjs_web_application/static/media/Erosnow-426X2948_V1.d8b84d07c22cf78cf07b.jpg",
+    "static/media/hoichoi-426X2946_V1.jpg": "/reactjs_web_application/static/media/hoichoi-426X2946_V1.fcac82dc16414fae556d.jpg",
+    "static/media/Hayu_logo_for_MLP_Grid.jpg": "/reactjs_web_application/static/media/Hayu_logo_for_MLP_Grid.06358da9780c1a521934.jpg",
+    "static/media/slideshow10.jpeg": "/reactjs_web_application/static/media/slideshow10.36bc143e14eeeae20304.jpeg",
+    "static/media/Primelogo.svg": "/reactjs_web_application/static/media/Primelogo.f29008c018626f7405ee4614ab72e6b6.svg",
+    "index.html": "/reactjs_web_application/index.html",
+    "static/media/Nav1_Language.svg": "/reactjs_web_application/static/media/Nav1_Language.3e23007b97d9dee0213d97274ada6579.svg",
+    "main.bbd07796.css.map": "/reactjs_web_application/static/css/main.bbd07796.css.map",
+    "main.6cee2d06.js.map": "/reactjs_web_application/static/js/main.6cee2d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd07796.css",
+    "static/js/main.6cee2d06.js"
+  ]
+}
